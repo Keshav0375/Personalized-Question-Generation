@@ -30,7 +30,7 @@ async def evaluate_resume(resume: str = Form(...), job_description: str = Form(.
         {job_description}
 
         **Personalized Interview Questions:**
-        Commence with a brief introduction of the candidate, followed by an inquiry regarding their comfortability with the job location. Subsequently, generate 15 to 18 targeted interview questions based on the candidate's resume and job description.
+        Commence with a brief introduction of the candidate, followed by an inquiry regarding their comfortability with the job location. Subsequently, generate 7 to 8 targeted interview questions based on the candidate's resume and job description.
 
         I need response in a structure as
         {{
